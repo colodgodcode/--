@@ -1,0 +1,67 @@
+body {
+    background-color: #F6F6F6;
+}
+
+.ZhuTi {
+    width: 90%;
+    margin: 0px auto;
+}
+
+.BiaoTi {
+    width: 230px;
+    margin: 0px auto;
+}
+
+.Send {
+    overflow: hidden;
+}
+
+.Send .TEXT {
+    width: 99.3%;
+    margin: 0;
+    padding: 0%;
+    height: 110px;
+}
+
+.Send .USER {
+    float: left;
+    width: 200px;
+    height: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0;
+}
+
+.Send .BTN {
+    float: right;
+    width: 50px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Send textarea {
+    resize: none;
+}
+
+.Show {
+    border: black solid 2px;
+    background-color: #FCFDF8;
+    height: auto;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Show .LOW {
+    width: 100px;
+    margin: 0px auto;
+}
+
+.Show .TIME {
+    float: right;
+}
+
+.Show .info {
+    overflow: hidden;
+}
