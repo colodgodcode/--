@@ -17,4 +17,4 @@
 
 建议尝试，试试
 
-demo  :http://121.37.19.56/BBQ/BBQ_YF.php
+demo  :http://121.37.19.56
